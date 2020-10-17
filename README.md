@@ -1,5 +1,5 @@
 # Real-Time_Eye_Face_Body_Detection
-Python scripts that detect human eyes, faces, bodies in pics or real time.
+Python scripts that detect human eyes, faces, bodies in pics, videos or real time.
 
 - How It Works
  
